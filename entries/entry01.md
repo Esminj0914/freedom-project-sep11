@@ -1,5 +1,8 @@
 # Entry 1
+  For our freedom project this year we had to pick a topic based on STEM and we will take that topic and create a website about it. When I was deciding a topic based on STEM I was primarily interested in science and mathematics. After some deeper research I found out what project topic I will make a website on. That topic was oceanography. 
 
-Text
-
+  One of my favorite subjects that I like to learn about is science and I wanted to pick something that is new to me. Picking a topic like oceanography can make a website that I am creating a very nice looking website with light blue colors that can hook people's attention before they even read anything on the website. I can write many things on my website like how people are negatively affecting the ocean today and what we can do about it. I can also write about the animals in the ocean and how they use the oceans environment in order to survive. For now I am still deciding on what I should do but I have a ton of ideas to be used in the website. Doing research for a topic like this will be very fun for me because I like science and im intrested in what's happening in the ocean right now. The audience I want to be making this website for people who want to make a change in the oceans environment or for students and ordinary people that want to learn about what the ocean is like.
+  
+  Originally I wanted to make a website on some basic math that can help students learn by giving them a quick lesson and applying what they learned in the lessons and answer some questions. After more thinking I realized that I would get quickly bored because I would have to code addition and subtraction problems. This made me want to switch to a new topic and something that I didn't know much about so that it would be fun for me to do research and make a website about it. This led to me picking oceanography as the topic I will be making a website on.
+ 
 [Home](../README.md)
